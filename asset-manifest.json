@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jabi-jaleel.github.io/ip-details/static/css/main.80f07dab.chunk.css",
-    "main.js": "/jabi-jaleel.github.io/ip-details/static/js/main.7751b380.chunk.js",
-    "main.js.map": "/jabi-jaleel.github.io/ip-details/static/js/main.7751b380.chunk.js.map",
-    "runtime-main.js": "/jabi-jaleel.github.io/ip-details/static/js/runtime-main.30f529f6.js",
-    "runtime-main.js.map": "/jabi-jaleel.github.io/ip-details/static/js/runtime-main.30f529f6.js.map",
-    "static/js/2.fc1c5e9d.chunk.js": "/jabi-jaleel.github.io/ip-details/static/js/2.fc1c5e9d.chunk.js",
-    "static/js/2.fc1c5e9d.chunk.js.map": "/jabi-jaleel.github.io/ip-details/static/js/2.fc1c5e9d.chunk.js.map",
-    "index.html": "/jabi-jaleel.github.io/ip-details/index.html",
-    "precache-manifest.7a7637851d0900e7eb2d9e8b067fc0f6.js": "/jabi-jaleel.github.io/ip-details/precache-manifest.7a7637851d0900e7eb2d9e8b067fc0f6.js",
-    "service-worker.js": "/jabi-jaleel.github.io/ip-details/service-worker.js",
-    "static/css/main.80f07dab.chunk.css.map": "/jabi-jaleel.github.io/ip-details/static/css/main.80f07dab.chunk.css.map",
-    "static/js/2.fc1c5e9d.chunk.js.LICENSE.txt": "/jabi-jaleel.github.io/ip-details/static/js/2.fc1c5e9d.chunk.js.LICENSE.txt"
+    "main.css": "/ip-details/static/css/main.80f07dab.chunk.css",
+    "main.js": "/ip-details/static/js/main.c7c3055d.chunk.js",
+    "main.js.map": "/ip-details/static/js/main.c7c3055d.chunk.js.map",
+    "runtime-main.js": "/ip-details/static/js/runtime-main.3169ee85.js",
+    "runtime-main.js.map": "/ip-details/static/js/runtime-main.3169ee85.js.map",
+    "static/js/2.fc1c5e9d.chunk.js": "/ip-details/static/js/2.fc1c5e9d.chunk.js",
+    "static/js/2.fc1c5e9d.chunk.js.map": "/ip-details/static/js/2.fc1c5e9d.chunk.js.map",
+    "index.html": "/ip-details/index.html",
+    "precache-manifest.78cbc57671085229ad29d44b51137810.js": "/ip-details/precache-manifest.78cbc57671085229ad29d44b51137810.js",
+    "service-worker.js": "/ip-details/service-worker.js",
+    "static/css/main.80f07dab.chunk.css.map": "/ip-details/static/css/main.80f07dab.chunk.css.map",
+    "static/js/2.fc1c5e9d.chunk.js.LICENSE.txt": "/ip-details/static/js/2.fc1c5e9d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.30f529f6.js",
+    "static/js/runtime-main.3169ee85.js",
     "static/js/2.fc1c5e9d.chunk.js",
     "static/css/main.80f07dab.chunk.css",
-    "static/js/main.7751b380.chunk.js"
+    "static/js/main.c7c3055d.chunk.js"
   ]
 }
